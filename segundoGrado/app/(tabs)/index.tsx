@@ -197,7 +197,7 @@ const styles = StyleSheet.create({
     color: '#666',
     fontWeight: '500',
     marginRight: 10,
-    minWidth: 70, // asegura que "Raíz 1" quepa completa
+    minWidth: 70, 
   },
   input: {
     flex: 1,
